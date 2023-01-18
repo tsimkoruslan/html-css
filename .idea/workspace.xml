@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="famile Simpson / Homer + Bart">
-      <change beforePath="$PROJECT_DIR$/lessson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessson1/index.html" afterDir="false" />
+    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="famile Simpson / Homer + Bart + Lisa">
+      <change beforePath="$PROJECT_DIR$/lessson1/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessson1/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lessson1" />
       <recent name="$PROJECT_DIR$/lessson1/style" />
+      <recent name="$PROJECT_DIR$/lessson1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674040410512</updated>
-      <workItem from="1674040411643" duration="475000" />
+      <workItem from="1674040411643" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="famile Simpson / Homer">
       <created>1674040764843</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674040858423</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="famile Simpson / Homer + Bart + Lisa">
+      <created>1674040955846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674040955846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="famile Simpson / Homer" />
     <MESSAGE value="famile Simpson / Homer + Bart" />
-    <option name="LAST_COMMIT_MESSAGE" value="famile Simpson / Homer + Bart" />
+    <MESSAGE value="famile Simpson / Homer + Bart + Lisa" />
+    <option name="LAST_COMMIT_MESSAGE" value="famile Simpson / Homer + Bart + Lisa" />
   </component>
 </project>
