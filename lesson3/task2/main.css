@@ -1,0 +1,63 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+i {
+    font-size: 30px;
+}
+img {
+    width: 100px;
+}
+
+.header {
+    background: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    display: flex;
+}
+
+.bgColor {
+    background: #1e2748;
+}
+
+.colorPurple {
+    background: #7d5e8c;
+}
+
+.brdRadius {
+    border-radius: 5px;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.w250 {
+    width: 250px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h450 {
+    height: 450px;
+}
+
+.father {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    position: absolute;
+    top: -100px;
+}
