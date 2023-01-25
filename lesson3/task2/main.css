@@ -9,11 +9,16 @@ img {
     width: 100px;
 }
 
+.icon {
+
+}
+
 .header {
+    box-sizing: border-box;
     background: white;
     padding: 20px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     position: fixed;
     display: flex;

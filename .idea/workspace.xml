@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 3 / start">
-      <change afterPath="$PROJECT_DIR$/lesson3/task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/task2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/task2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/task2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,9 @@
       <workItem from="1674253307617" duration="1867000" />
       <workItem from="1674594049649" duration="5483000" />
       <workItem from="1674600062827" duration="1952000" />
+      <workItem from="1674654657091" duration="79000" />
+      <workItem from="1674656300124" duration="102000" />
+      <workItem from="1674657356970" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="famile Simpson / Homer">
       <created>1674040764843</created>
