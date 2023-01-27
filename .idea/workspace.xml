@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 3 / start">
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve1/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve1/style/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve1/style/normalize.css" afterDir="false" />
+    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 4 / resolve 1 test">
+      <change afterPath="$PROJECT_DIR$/lesson4/resolve2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/resolve2/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/resolve2/style/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/resolve2/style/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tsimkoruslan/Desktop/december_2022_html/lesson3/task1&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/tsimkoruslan/Desktop/octen/PROJECT/lesson4/resolve2/style",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/resolve2/style" />
       <recent name="$PROJECT_DIR$/lesson2/task1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -81,7 +82,7 @@
       <workItem from="1674654657091" duration="79000" />
       <workItem from="1674656300124" duration="102000" />
       <workItem from="1674657356970" duration="242000" />
-      <workItem from="1674834039006" duration="4632000" />
+      <workItem from="1674834039006" duration="6629000" />
     </task>
     <task id="LOCAL-00001" summary="famile Simpson / Homer">
       <created>1674040764843</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674657554218</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson 4 / resolve 1 test">
+      <created>1674838769547</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674838769547</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +179,7 @@
     <MESSAGE value="Завдання 1" />
     <MESSAGE value="+ Card / task2" />
     <MESSAGE value="lesson 3 / start" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 / start" />
+    <MESSAGE value="lesson 4 / resolve 1 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 / resolve 1 test" />
   </component>
 </project>
