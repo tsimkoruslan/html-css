@@ -1,0 +1,22 @@
+@media screen and (min-width: 0px)and (max-width: 500px){
+    .a{
+        height: 20%;
+    }
+    .a_other {
+        flex-direction: column;
+
+    }
+    .boxConteiner {
+        width: 100%;
+    }
+    .px {
+        height: 80%;
+    }
+    .cde{
+        height: 40%;
+    }
+    .f{
+        height: 10%;
+        width: 98%;
+    }
+}
