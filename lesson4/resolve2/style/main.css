@@ -30,6 +30,31 @@
     height: 30vh;
 }
 .a_other {
+    /*box-sizing: border-box;*/
     height: 70%;
+}
+.boxConteiner{
     width: 70%;
+    height: 100%;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.f{
+    width: 30%;
+
+}
+.b{
+    box-sizing: border-box;
+    height: 50%;
+}
+
+.cde {
+    height: 50%;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.px {
+    height: 90%;
+    width: 35%;
 }
