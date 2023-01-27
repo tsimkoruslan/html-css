@@ -1,0 +1,17 @@
+@media screen and ( min-width: 0px ) and (max-width: 450px) {
+    .a {
+        height: 100px;
+    }
+    .bc {
+        flex-wrap: wrap;
+    }
+    .b {
+        width: 100%;
+        height: 100%;
+    }
+    .c {
+        width: 100%;
+        height: 30%;
+
+    }
+}

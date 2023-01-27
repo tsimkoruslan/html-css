@@ -1,0 +1,35 @@
+.bg {
+    background: darkgrey;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+}
+.margin {
+    margin: 5px;
+}
+.a {
+    height: 300px;
+}
+.bc {
+    display: flex;
+    height: 400px;
+}
+.b {
+    width: 80%;
+}
+.c {
+    width: 20%;
+}
+
+.radius {
+    border-radius: 10px;
+}
+.centre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
