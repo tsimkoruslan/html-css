@@ -2,9 +2,10 @@
     background: silver;
     border: solid 1px;
 }
+
 .header {
     justify-content: space-between;
-    min-width: 20px ;
+    min-width: 20px;
     padding: 20px;
 }
 
@@ -12,10 +13,21 @@
     display: flex;
     flex-direction: column;
     padding: 20px;
-
-
 }
+
 .promo_item__content {
     margin-bottom: 10px;
+}
+
+.block_3 {
+    height: 250px;
+    margin-bottom: 20px;
+}
+.users {
+    padding: 10px;
+
+}
+.user {
+    height: 130px;
 }
 
