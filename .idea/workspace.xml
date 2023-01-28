@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 4 / resolve 2">
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/main.css" afterDir="false" />
+    <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 4 / resolve 3_bootstrap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1674656300124" duration="102000" />
       <workItem from="1674657356970" duration="242000" />
       <workItem from="1674834039006" duration="10652000" />
-      <workItem from="1674941893370" duration="4155000" />
+      <workItem from="1674941893370" duration="4707000" />
     </task>
     <task id="LOCAL-00001" summary="famile Simpson / Homer">
       <created>1674040764843</created>
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674847497210</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lesson 4 / resolve 3_bootstrap">
+      <created>1674946230306</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674946230306</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +209,7 @@
     <MESSAGE value="lesson 4 / resolve 1 test" />
     <MESSAGE value="lesson 4 / resolve 2 / etap" />
     <MESSAGE value="lesson 4 / resolve 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 / resolve 2" />
+    <MESSAGE value="lesson 4 / resolve 3_bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 / resolve 3_bootstrap" />
   </component>
 </project>
