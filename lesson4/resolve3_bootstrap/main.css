@@ -31,3 +31,13 @@
     height: 130px;
 }
 
+.shopItem {
+    height: 150px;
+    margin-bottom: 10px;
+}
+.info{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+
+}
