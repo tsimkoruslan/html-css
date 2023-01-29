@@ -1,3 +1,6 @@
+body{
+    padding: 10px;
+}
 .block {
     background: silver;
     border: solid 1px;
@@ -46,4 +49,19 @@
 }
 .block6 {
     margin-bottom: 20px;
+}
+.m {
+    margin-left: 15px;
+}
+.block7 {
+    padding: 20px;
+    height: 100px;
+}
+.child_block7 {
+    margin-bottom: 10px;
+}
+.centreItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
