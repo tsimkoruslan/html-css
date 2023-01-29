@@ -1,6 +1,7 @@
-body{
+body {
     padding: 10px;
 }
+
 .block {
     background: silver;
     border: solid 1px;
@@ -26,10 +27,12 @@ body{
     height: 250px;
     margin-bottom: 20px;
 }
+
 .users {
     padding: 10px;
 
 }
+
 .user {
     height: 130px;
 }
@@ -38,7 +41,8 @@ body{
     height: 150px;
     margin-bottom: 10px;
 }
-.info{
+
+.info {
     height: 30px;
     display: flex;
     justify-content: center;
@@ -47,21 +51,30 @@ body{
 .h150px {
     height: 150px;
 }
+
 .block6 {
     margin-bottom: 20px;
 }
+
 .m {
     margin-left: 15px;
 }
+
 .block7 {
     padding: 20px;
     height: 100px;
 }
+
 .child_block7 {
     margin-bottom: 10px;
 }
+
 .centreItem {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.test {
+    margin: 0px;
 }

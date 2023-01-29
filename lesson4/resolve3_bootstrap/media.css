@@ -1,5 +1,33 @@
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
     .promo {
         display: none;
+    }
+
+    .userBlock {
+        margin-bottom: 10px;
+    }
+
+    .planshet {
+        display: flex;
+    }
+
+    .endBox6block {
+        box-sizing: border-box;
+        padding: 0px 10px;
+    }
+
+    .endBox6blockItem {
+        height: 450px;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    .block1 {
+        margin-bottom: 10px;
+    }
+
+    .planshet {
+        flex-direction: column;
     }
 }
