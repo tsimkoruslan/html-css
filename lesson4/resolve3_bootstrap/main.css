@@ -39,5 +39,11 @@
     height: 30px;
     display: flex;
     justify-content: center;
+}
 
+.h150px {
+    height: 150px;
+}
+.block6 {
+    margin-bottom: 20px;
 }

@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb738006-a41a-49ff-b4d8-73b0201305b5" name="Changes" comment="lesson 4 / resolve 3_bootstrap">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/resolve3_bootstrap/main.css" afterDir="false" />
     </list>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674946806129</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson 4 / resolve 3_bootstrap">
+      <created>1674951405606</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674951405606</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
